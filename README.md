@@ -5,13 +5,12 @@ JavaWeb工程师，学生党，湖北武汉。
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=carmjos.readme) -->
 
 ### 我的经历
-- [ ] **Kim Pokemon** 技术、开发、策划
-规模(200-300)在线/1w注册玩家
+- [ ] **Kim Pokemon** 技术、开发、策划[规模(200-300)在线/1w注册玩家]
+
 
 - [ ] **AquaCraft** 负责人
 
-- [x] **MineCarl** 创始人、领导人
-规模(200-300)在线
+- [x] **MineCarl** 创始人、领导人[规模(200-300)在线]
 
 <!-- ### 相关领域
 <img align="right" height=45% width=45% src="https://raw.githubusercontent.com/CarmJos/CarmJos/main/img/rd-2.png" />
