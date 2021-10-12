@@ -5,6 +5,7 @@ JavaWeb工程师，学生党，湖北武汉。
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=carmjos.readme) -->
 
 ### 我的经历
+- [ ] **Kar** 技术、开发、策划   [2021年10月正式接管]
 - [ ] **Kim Pokemon** 技术、开发、策划   [规模(200-300)在线/1w注册玩家]
 
 - [ ] **AquaCraft** 负责人
