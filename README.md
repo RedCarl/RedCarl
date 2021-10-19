@@ -21,10 +21,6 @@ JavaWeb工程师，学生党，湖北武汉。
 - 💻 Linux/Windows系统运维
 - 💎 MineCraft服务器开发、运维、策划与管理(从业七年) -->
 
-### 联系我
-- 哔哩哔哩 [@RedCarl](https://space.bilibili.com/398647207)
-- 📧 商务相关请发往邮箱 **redcarl@redcarl.cn** 。
-- 💬 如果有任何建议或问题，都可以[在这里](https://github.com/RedCarl/RedCarl/issues)告诉我，我会在能力范围之内回复您。
 <hr />
 
 <h3 align="center">:trophy: Meaningless but shiny</h3>
@@ -153,3 +149,8 @@ JavaWeb工程师，学生党，湖北武汉。
         <img alt="Sonarcloud" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/sonarcloud.svg" />
     </a>
 </p>
+<hr/>
+### 联系我
+- 哔哩哔哩 [@RedCarl](https://space.bilibili.com/398647207)
+- 📧 商务相关请发往邮箱 **redcarl@redcarl.cn** 。
+- 💬 如果有任何建议或问题，都可以[在这里](https://github.com/RedCarl/RedCarl/issues)告诉我，我会在能力范围之内回复您。
