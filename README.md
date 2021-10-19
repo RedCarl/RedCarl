@@ -149,7 +149,8 @@ JavaWeb工程师，学生党，湖北武汉。
         <img alt="Sonarcloud" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/sonarcloud.svg" />
     </a>
 </p>
-<hr/>
+<hr />
+
 ### 联系我
 - 哔哩哔哩 [@RedCarl](https://space.bilibili.com/398647207)
 - 📧 商务相关请发往邮箱 **redcarl@redcarl.cn** 。
