@@ -16,7 +16,6 @@ JavaWeb工程师，学生党，湖北武汉。
 - [x] **MineCarl** 创始人、领导人   [规模(200-300)在线]
 
 ### 相关领域
-<img align="right" height=45% width=45% src="https://raw.githubusercontent.com/CarmJos/CarmJos/main/img/rd-2.png" />
 
 - 🎥 用户界面设计
 - 📐 Vue3丶Uniapp 前端语言
