@@ -1,6 +1,6 @@
 ## 你好！我是 **RedCarl** 。
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RedCarl&show_icons=true&hide_title=true" />
-JavaWeb工程师，学生党，湖北武汉。
+Java 工程师，湖北。
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=carmjos.readme) -->
 
