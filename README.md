@@ -11,7 +11,6 @@ JavaWeb工程师，学生党，湖北武汉。
 - ⌨️ Java后端开发与架构设计
 - 💿 MySQL、MongoDB数据架构设计
 - 💻 Linux/Windows系统运维
-- 💎 武汉云易信息开发、运维、策划与管理(从业一年)
 
 <hr />
 
